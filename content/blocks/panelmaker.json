@@ -1,7 +1,7 @@
 {
   "type": "GenericSmelter",
   "name": "Solar panel assembly Center",
-  "description": "assembles space-grade solar panels from high-grade cells and Ultraglass",
+  "description": "Assembles space-grade solar panels from high-grade cells and Ultraglass",
 
   "outputItem": {
     "item": "goodsatpanel",
